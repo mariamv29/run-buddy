@@ -10,6 +10,8 @@ body {
   /* more on this crazy alphanumerical value in an minute! */
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
+  background-image: url("../images/hero-bg.jpg");
+ 
 }
 
 /* apply styles to <header> */
@@ -75,11 +77,11 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url("../assets/images/hero-bg.jpg")
-    height: 600px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+  background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg%2Ejpg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
 }
 /* Hero Style End */
 
