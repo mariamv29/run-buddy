@@ -5,7 +5,7 @@
 }
 
 .hero {
-  background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg%2Ejpg");
+  background-image: url("../images/hero-bg.jpg");
   background-size: cover;
   background-position: bottom;
   position: relative;
