@@ -137,6 +137,7 @@ section {
 }
 
 .form-input {
+  background-color: rgba(255, 255, 255, 0.75);
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
@@ -145,6 +146,11 @@ section {
   width: 100%;
   margin-bottom: 15px;
   border-radius: 10px;
+}
+
+.form-input:focus {
+  background-color: rgba(255 255, 255, 1);
+  outline: none;
 }
 
 .hero-form label {
@@ -197,11 +203,15 @@ section {
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
-  border-bottom: 1px solid #39a6b2;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid #39a6b2;
+}
+
+.step:last-child {
+  border-bottom: none;
 }
 
 .step h3 {
@@ -363,6 +373,13 @@ section {
   margin-bottom: 15px;
   margin-top: 5px;
   border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.contact-form input,
+.contact-form textarea:focus {
+  background-color: rgba(255, 255, 255, 1);
+  outline: none;
 }
 
 .contact-form button {
