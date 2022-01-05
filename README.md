@@ -1,18 +1,14 @@
 # Run Buddy Inc.
 
-## Purpose
+## Description 
+The Run Buddy is an app that matches users who are runners with personal trainers. Run Buddy allows a user to fill out the website form to have a personal trainer reach out and schedule a follow up. 
 
-A website that offers fitness training services.
+![screenshot](./assetsm/images/runbuddy.png)
 
-## Built With
-
-- HTML
-- CSS
-
-## Website
+## Deployment Link 
 
 https://lernantino.github.io/run-buddy/
 
-## Contribution
+## Contribution / Credits
 
-Made with ❤️ by Maria Mireles
+Made with ❤️ by [mariamv29](https://github.com/mariamv29/README-generator.git)
